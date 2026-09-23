@@ -1,6 +1,9 @@
 {
   "name": "reviewloop",
-  "owner": { "name": "tomek7667" },
+  "description": "Marketplace for the reviewloop Claude Code skill: review, fix, and re-review until a pass is clean.",
+  "owner": {
+    "name": "tomek7667"
+  },
   "plugins": [
     {
       "name": "reviewloop",
