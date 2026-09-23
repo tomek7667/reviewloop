@@ -1,0 +1,11 @@
+{
+  "name": "reviewloop",
+  "owner": { "name": "tomek7667" },
+  "plugins": [
+    {
+      "name": "reviewloop",
+      "source": "./",
+      "description": "Review → fix → review again, until one full pass reports zero findings."
+    }
+  ]
+}
