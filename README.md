@@ -37,3 +37,7 @@ cp -r reviewloop/skills/reviewloop ~/.claude/skills/
 
 See [SKILL.md](skills/reviewloop/SKILL.md) and
 [REFERENCE.md](skills/reviewloop/REFERENCE.md) for the full workflow and checklist.
+
+## License
+
+[GPL-3.0](LICENSE)

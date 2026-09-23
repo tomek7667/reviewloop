@@ -2,6 +2,7 @@
   "name": "reviewloop",
   "description": "Review a just-implemented change against the real git diff, fix every finding, and re-review from scratch until a full pass is clean.",
   "version": "1.0.0",
+  "license": "GPL-3.0-only",
   "author": { "name": "tomek7667" },
   "repository": "https://github.com/tomek7667/reviewloop",
   "keywords": ["review", "code-review", "verification", "skill"]
